@@ -1,0 +1,15 @@
+{
+    "users": [
+    {
+        "userid" : 1,
+        "username": "Morten",
+        "password": "hi123",
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/imagatest.appspot.com/o/images%2Favatarm.png?alt=media&token=cd35f2cd-a697-4a50-89c8-f17c05357ed4"
+    },
+    {
+        "userid" : 2,
+        "username": "Nina",
+        "password": "hello123",
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/imagatest.appspot.com/o/images%2Favatarg.png?alt=media&token=c3b5a470-5972-47e4-9679-db940b839832"
+    }
+]}

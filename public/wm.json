@@ -1,0 +1,22 @@
+{
+    "wms": [
+    {
+        "wmid" : 1,
+        "brand": "Zanussi",
+        "time" : "11:50",
+        "userid" : 1
+    },
+    {
+        "wmid" : 2,
+        "brand": "Bosch",
+        "time" : "0:00",
+        "userid" : 0
+    },
+    {
+        "wmid" : 3,
+        "brand": "Siemens",
+        "time" : "14:00",
+        "userid" : 2
+    }
+
+]}
